@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/nguyenhiep/.android/build-cache/cc891499f9e08d1efe0125bcd3b6a1c5a2723a26/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/nguyenhiep/AndroidStudioProjects/Android202/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a5fcdbaf89b9af514f2091a43da957f9410618e3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyenhiep/.android/build-cache/8bcdc36da9fb2bf12b02c84ae60ea5dac0e28bb5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="541a2ad68dc68aa49795821f8280b7624e6a0c9b">
+        <dex dex="/Users/nguyenhiep/AndroidStudioProjects/Android202/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_33fe950365d1b03a1934b69a5b2e994ae0ff8054/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyenhiep/.android/build-cache/7991cfa9cd657c4c8e0eafcc20a888d3405e72c9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/nguyenhiep/AndroidStudioProjects/Android202/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8c938085d491eaeabe606f717e9af8d91a7e2c64/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyenhiep/.android/build-cache/e6fbfebea88816b06947c43e97c7db89e0cd33e8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/nguyenhiep/AndroidStudioProjects/Android202/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_55d9dc1ac00233bab043be1a550a6856956b1bbb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyenhiep/.android/build-cache/af54069e998e13757372e3f55aabf806029fa42d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/nguyenhiep/AndroidStudioProjects/Android202/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_66182c9288ebb73acbf6216845ea78373f563fd4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyenhiep/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0-alpha7/constraint-layout-solver-1.0.0-alpha7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="439eeb5ffd54cbd18db0a6aea471e8356f19fc36">
+        <dex dex="/Users/nguyenhiep/AndroidStudioProjects/Android202/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.0-alpha7_25012379058183fe85777350f2a5620081c35914/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyenhiep/.android/build-cache/e512b2a046787a313419568f9feb864a032115ae/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/nguyenhiep/AndroidStudioProjects/Android202/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_591a0da8a12adfdedd562a11d49ccdd9d339cf79/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyenhiep/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/nguyenhiep/AndroidStudioProjects/Android202/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_e29cbec0fb0f27d2ed7ae9309bfea0785b8bec6a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyenhiep/.android/build-cache/18419dde6bfb44345601e5eabc164f695d2e942c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/nguyenhiep/AndroidStudioProjects/Android202/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4e3a631978f13ddad9fa5a3c8f95525a2cd4dc55/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyenhiep/.android/build-cache/ba9b3b3d37b3992ecf7240bebf769141fdbdc180/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/nguyenhiep/AndroidStudioProjects/Android202/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_63a7aa438715edcdc8d72f01c37564dea7364212/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyenhiep/AndroidStudioProjects/Android202/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/nguyenhiep/AndroidStudioProjects/Android202/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_18f9b53c765fce8eb94ee1678c5017a821275a0e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyenhiep/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/nguyenhiep/AndroidStudioProjects/Android202/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_a4571d88b0f32fa4ab9f0d194437b04d0cd03d38/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyenhiep/.android/build-cache/04ed67cce5dea6ef28d03e67be4c98ddda57ea90/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/nguyenhiep/AndroidStudioProjects/Android202/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ecad82df992049b593d7b2dca76cc1c7fa05b9d9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyenhiep/.android/build-cache/fe65655955b21a7dc03d22edd3d20704b8f351e1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/nguyenhiep/AndroidStudioProjects/Android202/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a4313477405a8fa26ec47b531dc25d98ddc896ae/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyenhiep/AndroidStudioProjects/Android202/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c5561eabe96d8bd4fed034374d182e53eb9ac80e">
+        <dex dex="/Users/nguyenhiep/AndroidStudioProjects/Android202/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_16298c8a41a2b35358c2085266b7fd17ef887b39/classes.dex" />
+    </item>
+
+</items>
